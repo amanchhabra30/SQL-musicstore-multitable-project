@@ -2,6 +2,11 @@
 SQL-based Music Store Data Analysis project focused on extracting business insights from relational database tables such as customers, invoices, tracks, artists, and genres. Includes advanced SQL queries using joins, aggregations, CTEs, and window functions to identify top customers, popular genres, revenue trends, and artist performance.
 🎵 Music Store SQL Data Analysis Project
 
+FILE ATTACHED:
+Schema file- png file show multitable attachment
+musicstore sql file - query with question solved
+readme file- for crux
+
 This project is a complete SQL-based data analysis of a Music Store database. The objective of this project is to analyze sales, customers, artists, and genres using advanced SQL queries to extract meaningful business insights.
 
 The database includes multiple relational tables such as albums, artists, customers, employees, invoices, invoice lines, tracks, genres, playlists, and media types.
