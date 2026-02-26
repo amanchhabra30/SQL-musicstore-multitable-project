@@ -3,8 +3,8 @@ SQL-based Music Store Data Analysis project focused on extracting business insig
 🎵 Music Store SQL Data Analysis Project
 
 FILE ATTACHED:
-Schema file- png file show multitable attachment
-musicstore sql file - query with question solved
+Schema file- png file show multitable attachment ,
+musicstore sql file - query with question solved ,
 readme file- for crux
 
 This project is a complete SQL-based data analysis of a Music Store database. The objective of this project is to analyze sales, customers, artists, and genres using advanced SQL queries to extract meaningful business insights.
